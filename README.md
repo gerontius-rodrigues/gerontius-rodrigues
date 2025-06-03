@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   
 # 👋 Hi there, I’m Gerontius Rodrigues
 *Welcome to my GitHub profile, where I share my projects and coding work.*
@@ -28,5 +28,9 @@ I look forward to making new projects, trying different coding approaches, and l
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="Arduino Logo" />
   <img width="15" />
   <br>
+
+## 📊 GitHub Stats
+![gerontius-rodrigues's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gerontius-rodrigues&theme=chartreuse-dark&hide_border=true&card_width=500)      
+![gerontius-rodrigues's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gerontius-rodrigues&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact&card_width=500)
 
 </div>          
